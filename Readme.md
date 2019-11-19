@@ -1,3 +1,12 @@
+Assignment - 2
+
+A. Logs:
+
+B. Score:
+Score:    99.54%
+
+C. Strategy:
+
 Assignment - 1
 
 Score:    99.11%
@@ -22,8 +31,4 @@ Activation Function: The function  which breaks the linearity to obtain desired(
 
 Receptive Field: The current scanning/convolved area of the input layer contributing to one pixel of the next layer. Local receptive field is the size of the kernel where Global is entire image.
 
-Assignment - 2
-A. Logs
 
-B. Score
-Score:    99.54%
