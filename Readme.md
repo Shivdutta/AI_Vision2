@@ -89,7 +89,9 @@ B. Score:
 Score:    99.41%
 
 C. Strategy:
+
 a. To reduce the parameter count to 15000: This is achieved by reducing numer of channels from 32 to 16 in Layer 2 in First Conv Block.
+
 b. To achieve the accuracy of 99.4 or above : By reducing number of parameters as mentioned in a section, better performance in terms of accuracy and time is achieved.
 
 ------------------------------------------------------------------------------------------------------------------------------
