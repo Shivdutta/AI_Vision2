@@ -92,7 +92,7 @@ C. Strategy:
 
 a. To reduce the parameter count below 15000: This is achieved by reducing numer of channels from 32 to 16 in Layer 2 in First Conv Block.
 
-b. To achieve the accuracy of 99.4 or above : By reducing number of parameters as mentioned in a section C-A, better performance in terms of accuracy and training time is achieved.
+b. To achieve the accuracy of 99.4 or above : By reducing number of parameters as mentioned in a section C-A and increasing dropout to 0.2, better performance in terms of accuracy and training time is achieved.
 
 ------------------------------------------------------------------------------------------------------------------------------
 Assignment - 1
