@@ -157,5 +157,3 @@ Epoch 49/50
 Epoch 50/50
 390/390 [==============================] - 27s 69ms/step - loss: 0.3110 - acc: 0.8883 - val_loss: 0.5947 - val_acc: 0.8229
 Model took 1344.41 seconds to train
-
-Duration:  1344.41 seconds 
