@@ -1,8 +1,8 @@
-#Final Validation accuracy for Base Network   82.43
+# Final Validation accuracy for Base Network   82.43
 
-#Final Validation accuracy for Assignment Network    82.29
+# Final Validation accuracy for Assignment Network    82.29
 
-#Your model definition (model.add... ) with output channel size and receptive field
+# Your model definition (model.add... ) with output channel size and receptive field
 
 modelNew = Sequential()
 
