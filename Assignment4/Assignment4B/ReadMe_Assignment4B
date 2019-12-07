@@ -1,1 +1,5 @@
-ReadMe_Assignment4B
+
+Test loss: 0.5922977709770203
+Test accuracy: 0.8931
+
+Images loaded using gradcam
