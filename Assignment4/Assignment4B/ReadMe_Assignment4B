@@ -1,5 +1,15 @@
-
+Assignment4B_Resnet.ipynb
+-------------------------
 Test loss: 0.5922977709770203
 Test accuracy: 0.8931
+GradCam
 
-Images loaded using gradcam
+
+
+Assignment4B_Resnet_cutoff.ipynb
+--------------------------------
+Test loss: 0.5889090274572373
+Test accuracy: 0.8846
+Cutoff Implemented
+GradCam with images from internet
+GradCam with images from test data
