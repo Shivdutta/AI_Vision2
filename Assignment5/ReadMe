@@ -1,0 +1,5 @@
+1.	The image data is loaded in google drive, unzipped and loaded in dataframe.
+2.	The annotation data is loaded in dataframe.
+3.	The Cut-out function 'get_random_eraser' copied from github. Cut-out is a data augmentation technique which we will use in data generator.
+4.	Multilabel classification is done using One Hot Encoding.
+5.	Persondatagenerator is a data generator will feed the images to model based on batch size.
